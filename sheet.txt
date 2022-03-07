@@ -1,0 +1,23 @@
+Account id: 195017838274
+
+IAM 
+AccessKey ID: AKIAS2Z7YB3BH3INBA6E
+IAM user name: udacity
+Secret access key: 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
+Password: qtl1QJ{fR}+j(gp
+
+RDS
+databasename: database-1
+Master username: postgres
+Database port: 5432
+Database password: z4h4k39a0sL1TqLNCegb
+Endpoint: database-1.cjntl6tetq1z.us-east-1.rds.amazonaws.com
+
+S3
+Bucket name: febronia
+AWS Region: us-east-1
+Static website hosting URL: http://febronia.s3-website-us-east-1.amazonaws.com
+
+Elastic Beanstalk
+Environment name: Udagram-env
+URL: Udagram-env.eba-cszjvjsp.us-east-1.elasticbeanstalk.com
