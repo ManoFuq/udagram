@@ -11,10 +11,22 @@
   - JWT_SECRET=admin
   - URL = http://Newapp-env.eba-pjrm2mgm.us-east-1.elasticbeanstalk.com/
 
+### Image for the environment health
+![health](https://ibb.co/album/zXsF5K)
+
 - Environment variables CircleCI
 
   - AWS_ACCESS_KEY_ID=AKIAS2Z7YB3BKENHJZEX
   - AWS_SECRET_ACCESS_KEY=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
+
+### image for CircleCI environment variables
+
+![variables](https://ibb.co/album/zXsF5K)
+
+## Images for S3 and frontend page
+
+![S3](https://ibb.co/album/zXsF5K)
+![frontend page](https://ibb.co/album/zXsF5K)
 
 ## The project scripts
 
@@ -35,8 +47,14 @@
 - DB_PORT=5432
 - POSTGRES_HOST=database-1.cjntl6tetq1z.us-east-1.rds.amazonaws.com
 
+### Image for the database 
+
+![database](https://ibb.co/album/zXsF5K)
 
 # Configuring Continuous Integration Pipeline with Github
+
+### GitHub repo link
+- https://github.com/ManoFuq/udagram 
 
 ## Trigger a successful pipeline push to the master branch
 
