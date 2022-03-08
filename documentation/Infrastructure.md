@@ -5,7 +5,7 @@ Back-end API Environment:
         App name: newapp
 
 Front-End:
-    AWS S3 bucket: s3xudacity
+    AWS S3 bucket: febronia
         Configured for static website hosting: http://febronia.s3-website-us-east-1.amazonaws.com
 
 Deployment Pipeline:
