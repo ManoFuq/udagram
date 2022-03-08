@@ -29,9 +29,6 @@ jobs:
             command: |
               npm run build:backend
       - run:
-          name: back-End Test
-          command: |
-            npm run test:backend
       - run:
             name: Deploy App
             command: |
