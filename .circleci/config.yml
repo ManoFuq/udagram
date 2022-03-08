@@ -37,6 +37,14 @@ jobs:
             name: Back-End Deploy
             command: |
               npm run deploy:backend
+      - run:
+          name: Front-End Test
+          command: |
+            npm run test:frontend
+      - run:
+          name: back-End Test
+          command: |
+            npm run test:backend
 workflows:
   udagram:
     jobs:
