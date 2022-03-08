@@ -31,10 +31,6 @@ jobs:
       - run:
           name: Front-End Test
           command: |
-            npm run test:frontend
-      - run:
-          name: Front-End Test
-          command: |
             npm run test:fronten
       - run:
             name: Deploy App
