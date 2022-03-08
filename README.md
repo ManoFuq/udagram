@@ -22,7 +22,6 @@
 ### image for CircleCI environment variables
 ![variables](https://i.ibb.co/YbdS1R9/Screenshot-346.png)
 
-
 ### Image for S3 
 ![S3](https://i.ibb.co/f1DQCjb/Screenshot-293.png)
 
@@ -30,7 +29,7 @@
 ![frontend page](https://i.ibb.co/Db414xH/Screenshot-343.png)
 
 ## The project scripts
-
+```
     "scripts": {
         "install:frontend": "cd udagram && cd udagram-frontend && npm install",
         "install:backend": "cd udagram && cd udagram-api && npm install",
@@ -39,6 +38,7 @@
         "deploy:frontend": "cd udagram && cd udagram-frontend && npm run deploy",
         "deploy:backend": "cd udagram && cd udagram-api && npm run deploy"
     }
+```
 
 ## Configure the AWS RDS database
 
