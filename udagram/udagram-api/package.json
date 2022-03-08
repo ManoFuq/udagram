@@ -7,7 +7,7 @@
         "start": "node .",
         "tsc": "npx tsc",
         "dev": "ts-node-dev --respawn --transpileOnly ./src/server.ts",
-        "deploy": "chmod +x ./bin/deploy.sh && ./bin/deploy.sh",
+        "deploy": "chmod +x bin/deploy.sh && bin/deploy.sh",
         "prod": "npx tsc && node ./www/server.js",
         "clean": "rm -rf www/ || true",
         "copy:scripts": "@powershell copy src/config www/config && @powershell copy ./.npmrc ./www/.npmrc && @powershell copy ./package.json ./www/package.json  ",
