@@ -2,7 +2,7 @@ Back-end API Environment:
     AWS Elastic Beanstalk Node.js 14 running on 64bit Amazon Linux Server
         URL - http://Newapp-env.eba-pjrm2mgm.us-east-1.elasticbeanstalk.com 
         Environment includes Postgres database - endpoint: http://database-1.cjntl6tetq1z.us-east-1.rds.amazonaws.com
-        App name: ebudacity
+        App name: newapp
 
 Front-End:
     AWS S3 bucket: s3xudacity

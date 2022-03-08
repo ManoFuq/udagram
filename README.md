@@ -62,7 +62,8 @@
 
 - .circleci/config.yml
 
-# Documenting Deployment Process
+### Image for the CircleCI Configuration after the steps passes
+![config]()
 
 ## Write code that demonstrates a well-organized docs folder
 
