@@ -1,5 +1,5 @@
 cd ./www
-eb init --region us-east-1 --platform node.js ebudacity
+eb init --region us-east-1 --platform node.js newapp
 eb use Newapp -env
 eb setenv JWT_SECRET=$JWT_SECRET POSTGRES_DB=$POSTGRES_DB POSTGRES_HOST=$POSTGRES_HOST POSTGRES_PASSWORD=$POSTGRES_PASSWORD POSTGRES_PORT=$POSTGRES_PORT POSTGRES_USERNAME=$POSTGRES_USERNAME AWS_REGION=$AWS_REGION AWS_BUCKET=$AWS_BUCKET URL=$URL
 eb deploy
