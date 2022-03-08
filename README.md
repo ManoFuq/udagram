@@ -20,12 +20,10 @@
   - AWS_SECRET_ACCESS_KEY=kPR1bQ8itr+Trcee/WPR455pQqSKgK6iYXkdByB6
 
 ### image for CircleCI environment variables
-
 ![variables](https://i.ibb.co/YbdS1R9/Screenshot-346.png)
 
 
 ## Images for S3 and frontend page
-
 ![S3](https://i.ibb.co/f1DQCjb/Screenshot-293.png)
 ![frontend page](https://i.ibb.co/Db414xH/Screenshot-343.png)
 
@@ -49,7 +47,6 @@
 - POSTGRES_HOST=database-1.cjntl6tetq1z.us-east-1.rds.amazonaws.com
 
 ### Image for the database 
-
 ![database](https://i.ibb.co/hCQC7rP/Screenshot-259.png)
 
 # Configuring Continuous Integration Pipeline with Github
