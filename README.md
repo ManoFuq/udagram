@@ -46,8 +46,9 @@
 - DB_PORT=5432
 - POSTGRES_HOST=database-1.cjntl6tetq1z.us-east-1.rds.amazonaws.com
 
-### Image for the database 
+### Images for the database and backend configure
 ![database](https://i.ibb.co/hCQC7rP/Screenshot-259.png)
+![backend](https://i.ibb.co/QdtD7FH/Screenshot-297.png)
 
 # Configuring Continuous Integration Pipeline with Github
 
