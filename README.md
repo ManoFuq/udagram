@@ -12,7 +12,7 @@
   - URL = http://Newapp-env.eba-pjrm2mgm.us-east-1.elasticbeanstalk.com/
 
 ### Image for the environment health
-![health](https://ibb.co/album/zXsF5K)
+![health](https://i.ibb.co/MNSdtSn/Screenshot-326.png)
 
 - Environment variables CircleCI
 
@@ -21,12 +21,13 @@
 
 ### image for CircleCI environment variables
 
-![variables](https://ibb.co/album/zXsF5K)
+![variables](https://i.ibb.co/YbdS1R9/Screenshot-346.png)
+
 
 ## Images for S3 and frontend page
 
-![S3](https://ibb.co/album/zXsF5K)
-![frontend page](https://ibb.co/album/zXsF5K)
+![S3](https://i.ibb.co/f1DQCjb/Screenshot-293.png)
+![frontend page](https://i.ibb.co/Db414xH/Screenshot-343.png)
 
 ## The project scripts
 
@@ -49,7 +50,7 @@
 
 ### Image for the database 
 
-![database](https://ibb.co/album/zXsF5K)
+![database](https://i.ibb.co/hCQC7rP/Screenshot-259.png)
 
 # Configuring Continuous Integration Pipeline with Github
 
