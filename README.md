@@ -3,9 +3,6 @@
 
 ## Write the environment variables
 
-### Image for S3 
-![S3](https://i.ibb.co/f1DQCjb/Screenshot-293.png)
-
 - Environment variables of AWS elastic beanstalk configuration of environment Newapp-env
 
   - AWS_BUCKET=febronia
@@ -22,8 +19,8 @@
   - AWS_ACCESS_KEY_ID=AKIAS2Z7YB3BKENHJZEX
   - AWS_SECRET_ACCESS_KEY=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
 
-### image for the backend
-![backend](https://i.ibb.co/QdtD7FH/Screenshot-297.png)
+### Image for S3 
+![S3](https://i.ibb.co/f1DQCjb/Screenshot-293.png)
 
 ## The project scripts
 ```
