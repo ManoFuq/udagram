@@ -23,8 +23,10 @@
 ![variables](https://i.ibb.co/YbdS1R9/Screenshot-346.png)
 
 
-## Images for S3 and frontend page
+### Image for S3 
 ![S3](https://i.ibb.co/f1DQCjb/Screenshot-293.png)
+
+### Image for frontend page
 ![frontend page](https://i.ibb.co/Db414xH/Screenshot-343.png)
 
 ## The project scripts
@@ -46,8 +48,10 @@
 - DB_PORT=5432
 - POSTGRES_HOST=database-1.cjntl6tetq1z.us-east-1.rds.amazonaws.com
 
-### Images for the database and backend configure
+### Image for the database 
 ![database](https://i.ibb.co/hCQC7rP/Screenshot-259.png)
+
+### image for the backend
 ![backend](https://i.ibb.co/QdtD7FH/Screenshot-297.png)
 
 # Configuring Continuous Integration Pipeline with Github
