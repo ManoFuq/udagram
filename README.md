@@ -3,6 +3,9 @@
 
 ## Write the environment variables
 
+### Image for S3 
+![S3](https://i.ibb.co/f1DQCjb/Screenshot-293.png)
+
 - Environment variables of AWS elastic beanstalk configuration of environment Newapp-env
 
   - AWS_BUCKET=febronia
@@ -19,14 +22,8 @@
   - AWS_ACCESS_KEY_ID=AKIAS2Z7YB3BKENHJZEX
   - AWS_SECRET_ACCESS_KEY=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
 
-### image for CircleCI environment variables
-![variables](https://i.ibb.co/YbdS1R9/Screenshot-346.png)
-
-### Image for S3 
-![S3](https://i.ibb.co/f1DQCjb/Screenshot-293.png)
-
-### Image for frontend page
-![frontend page](https://i.ibb.co/Db414xH/Screenshot-343.png)
+### image for the backend
+![backend](https://i.ibb.co/QdtD7FH/Screenshot-297.png)
 
 ## The project scripts
 ```
@@ -39,7 +36,8 @@
         "deploy:backend": "cd udagram && cd udagram-api && npm run deploy"
     }
 ```
-
+### Image for frontend page
+![frontend page](https://i.ibb.co/Db414xH/Screenshot-343.png)
 ## Configure the AWS RDS database
 
 - POSTGRES_USERNAME=postgres
@@ -51,10 +49,7 @@
 ### Image for the database 
 ![database](https://i.ibb.co/hCQC7rP/Screenshot-259.png)
 
-### image for the backend
-![backend](https://i.ibb.co/QdtD7FH/Screenshot-297.png)
 
-# Configuring Continuous Integration Pipeline with Github
 
 ### GitHub repo link
 - https://github.com/ManoFuq/udagram 
@@ -63,6 +58,8 @@
 
     - CircleCI Build Status:
 
+### image for CircleCI environment variables
+![variables](https://i.ibb.co/YbdS1R9/Screenshot-346.png)
 
 ## Write a proper pipeline file using the config.yml format used by CircleCi
 
