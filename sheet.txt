@@ -1,10 +1,10 @@
 Account id: 195017838274
 
 IAM 
-AccessKey ID: AKIAS2Z7YB3BH3INBA6E
-IAM user name: udacity
+AccessKey ID: AKIAS2Z7YB3BKENHJZEX
+IAM user name: mohamed
 Secret access key: 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
-Password: qtl1QJ{fR}+j(gp
+Password: '2F$rs'Pa_Odj%n
 
 RDS
 databasename: database-1
@@ -19,5 +19,5 @@ AWS Region: us-east-1
 Static website hosting URL: http://febronia.s3-website-us-east-1.amazonaws.com
 
 Elastic Beanstalk
-Environment name: Udagram-env
-URL: Udagram-env.eba-cszjvjsp.us-east-1.elasticbeanstalk.com
+Environment name: Newapp-env
+URL: Newapp-env.eba-pjrm2mgm.us-east-1.elasticbeanstalk.com 
