@@ -1,2 +1,2 @@
-eb deploy Udagram-env
+eb deploy Newapp-env
 eb setenv PORT=$PORT DB_USER=$DB_USER DB_PASSWORD=$DB_PASSWORD POSTGRES_HOST=$POSTGRES_HOST DB_NAME=$DB_NAME DB_PORT=$DB_PORT
