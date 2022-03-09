@@ -1,4 +1,4 @@
-# udagramApp
+# Udagram App
 # Preparing source code infrastructure for deployment
 
 ## Write the environment variables
@@ -9,7 +9,7 @@
   - AWS_PROFILE=default
   - AWS_REGION=us-east-1
   - JWT_SECRET=admin
-  - URL = http://Newapp-env.eba-pjrm2mgm.us-east-1.elasticbeanstalk.com/
+  - URL = http://localhost
 
 ### Image for the environment health
 ![health](https://i.ibb.co/MNSdtSn/Screenshot-326.png)
@@ -53,19 +53,12 @@
 ### GitHub repo link
 - https://github.com/ManoFuq/udagram 
 
-## Trigger a successful pipeline push to the master branch
-
-    - CircleCI Build Status:
-
 ### image for CircleCI environment variables
 ![variables](https://i.ibb.co/YbdS1R9/Screenshot-346.png)
 
 ## Write a proper pipeline file using the config.yml format used by CircleCi
 
 - .circleci/config.yml
-
-### Image for the CircleCI Configuration after the steps passes
-![config]()
 
 ## Write code that demonstrates a well-organized docs folder
 - Dep.md
