@@ -13,7 +13,7 @@ Process:
 
 		Front-End Script: `cd udagram && cd udagram-frontend && chmod +x ./bin/deploy.sh && ./bin/deploy.sh`
 
-		    Front-End deploy.sh contents: `aws s3 cp --recursive --acl public-read ./www s3://s3xudacity/`
+		Front-End deploy.sh contents: `aws s3 cp --recursive --acl public-read ./www s3://s3xudacity/`
 
 		Back-End Script: `cd udagram && cd udagram-api &&chmod +x ./bin/deploy.sh && ./bin/deploy.sh`
 

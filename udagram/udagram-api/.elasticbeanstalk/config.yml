@@ -1,0 +1,19 @@
+branch-defaults:
+  default:
+    environment: Newapp-env
+environment-defaults:
+  Newapp-env:
+    branch: default
+    repository: udagram-api
+global:
+  application_name: newapp
+  default_ec2_keyname: vockey
+  default_platform: Node.js 14 running on 64bit Amazon Linux 2
+  default_region: us-east-1
+  include_git_submodules: true
+  instance_profile: null
+  platform_name: null
+  platform_version: null
+  profile: null
+  sc: git
+  workspace_type: Application
