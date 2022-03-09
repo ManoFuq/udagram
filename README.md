@@ -29,6 +29,8 @@
         "install:backend": "cd udagram && cd udagram-api && npm install",
         "build:frontend": "cd udagram && cd udagram-frontend && npm run build",
         "build:backend": "cd udagram && cd udagram-api && npm run build",
+        "test:frontend":"cd udagram && cd udagram-frontend && npm run test",
+        "test:backend":"cd udagram && cd udagram-api && npm run test",
         "deploy:frontend": "cd udagram && cd udagram-frontend && npm run deploy",
         "deploy:backend": "cd udagram && cd udagram-api && npm run deploy"
     }
@@ -67,6 +69,12 @@
 
 ## Write code that demonstrates a well-organized docs folder
 
+# Diagrams
+## Image of a Pipeline diagram
+![pipeline](https://i.ibb.co/6YVQxGt/pipline-drawio.png)
+
+## Image of Infrastructure diagram
+![Infrastructure](https://i.ibb.co/2hfnYxy/Infrastructure-diagram-drawio.png)
 
 # Udagram
 
