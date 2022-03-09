@@ -68,7 +68,9 @@
 ![config]()
 
 ## Write code that demonstrates a well-organized docs folder
-
+- Dep.md
+- Infrastructure.md
+- Pipeline.md
 # Diagrams
 ## Image of a Pipeline diagram
 ![pipeline](https://i.ibb.co/6YVQxGt/pipline-drawio.png)
